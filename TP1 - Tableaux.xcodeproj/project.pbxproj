@@ -28,6 +28,7 @@
 		B9337D1E185897D800A04278 /* TP1 - Tableaux */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "TP1 - Tableaux"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9337D21185897D800A04278 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		B9337D23185897D800A04278 /* TP1___Tableaux.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = "TP1___Tableaux.1"; sourceTree = "<group>"; };
+		B9337D2A1858980700A04278 /* Tableaux.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Tableaux.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				B9337D21185897D800A04278 /* main.c */,
+				B9337D2A1858980700A04278 /* Tableaux.h */,
 				B9337D23185897D800A04278 /* TP1___Tableaux.1 */,
 			);
 			path = "TP1 - Tableaux";
@@ -225,6 +227,7 @@
 				B9337D29185897D800A04278 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
